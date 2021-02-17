@@ -16,15 +16,13 @@ TRMS, or Tuition Reimbursement Management System is a full-stack web application
 
 ## Features
 
-List of features ready and TODOs for future development
-
 * Users can login, view events, and view tuition reimbursement forms
 * Supervisors, department heads and benefits coordinators can accept/reject tuition reimbursement requests, and request more information
 * Employees can create and edit tuition reimbursement forms
 * Once approved, employees can submit a numeric grade for the event they attended
 * Reimbursement amounts are calculated and deducted from the employee account balance if a passing grade is achieved
 
-To-do list:
+## To-do:
 
 * Time sensitivity: employees must submit request one week prior to event start, direct supervisors and department heads must respond to requests in a timely manner, otherwise request is auto-approved
 * Grade/presentation upload: employees can submit other grading formats, and supervisors can approve/reject the presentation or grade
